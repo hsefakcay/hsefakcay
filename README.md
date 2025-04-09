@@ -33,6 +33,7 @@
   <!-- Tools -->
   <strong>Tools:</strong><br>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://swagger.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/public/favicon-32x32.png" alt="swagger" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 </p>
 
